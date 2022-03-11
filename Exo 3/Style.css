@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .....Géneral.... */
+
+.bg_White {
+    background: #f7f7f7;
+}
+
+.text_green {
+    color: #3d9f96;
+}
+
+.padding_for_all {
+    padding: 5% 15%;
+}
+
+.btn {
+    background: #3d9f96;
+    border-radius: 25px;
+    width: 30%;
+}
+
+
+/* .... */
+
+header {
+    background: url(img/header_bg.jpg);
+}
+
+nav {
+    padding: 1%;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.promote {
+    width: 57%;
+}
+
+.social_medias_icons {
+    padding: 2.5% 0;
+}
+
+.social_medias_icons div a {
+    padding: 0 4.5% 0 0;
+}
+
+.social_medias_icons p {
+    padding: 2% 0 0 0;
+}
+
+.Section_3 {
+    background: url(img/map_bg.png) no-repeat;
+    background-size: cover;
+}
+
+.little_text_description {
+    padding: 2% 0;
+    background: #322f36;
+}
+
+.sayna {
+    padding: 0 5% 0 0;
+}
+
+.sc_icons a {
+    padding: 0 5%;
+}
+
+.sc_icons a img {
+    width: 5%;
+}
